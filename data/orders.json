@@ -1,0 +1,16 @@
+[
+  {"order_id": 101, "user_id": 1, "order_date": "2024-06-01", "amount": 42.50, "status": "completed"},
+  {"order_id": 102, "user_id": 2, "order_date": "2024-06-02", "amount": 18.00, "status": "completed"},
+  {"order_id": 103, "user_id": 3, "order_date": "2024-06-03", "amount": 99.99, "status": "completed"},
+  {"order_id": 104, "user_id": 4, "order_date": "2024-06-04", "amount": 15.25, "status": "refunded"},
+  {"order_id": 105, "user_id": 5, "order_date": "2024-06-05", "amount": 60.00, "status": "completed"},
+  {"order_id": 106, "user_id": 6, "order_date": "2024-06-06", "amount": 33.10, "status": "completed"},
+  {"order_id": 107, "user_id": 7, "order_date": "2024-06-07", "amount": 12.00, "status": "completed"},
+  {"order_id": 108, "user_id": 8, "order_date": "2024-06-08", "amount": 75.40, "status": "completed"},
+  {"order_id": 109, "user_id": 9, "order_date": "2024-06-09", "amount": 21.99, "status": "completed"},
+  {"order_id": 110, "user_id": 999, "order_date": "2024-06-10", "amount": 45.00, "status": "completed"},
+  {"order_id": 111, "user_id": 3, "order_date": "06/11/2024", "amount": 29.99, "status": "completed"},
+  {"order_id": 112, "user_id": 5, "order_date": "2024-06-12", "amount": -10.00, "status": "completed"},
+  {"order_id": 113, "user_id": 1, "order_date": "2024-06-13", "amount": 55.00, "status": "completed"},
+  {"order_id": 114, "user_id": 2, "order_date": "2024-06-14", "amount": 40.00, "status": "completed"}
+]
